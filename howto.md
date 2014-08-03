@@ -21,7 +21,7 @@ Stage everything in the folder at once
 $ git add .
 ```
 OR
-# My favorite b/c this command stages the added files, modified files, and removed files
+My favorite b/c this command stages the added files, modified files, and removed files
 ```
 git add --all
 ```
@@ -31,7 +31,7 @@ Check git status again if desired
 $ git status
 ```
 
-# All good? Commit the changes
+All good? Commit the changes
 ```
 $ git commit -m "comment str"
 ```
@@ -40,7 +40,7 @@ OR
 $ git commit #nano will open and you type your comment
 ```
 
-# Finally, push the updates to github
+Finally, push the updates to github
 ```
 $ git push origin master
 ```
